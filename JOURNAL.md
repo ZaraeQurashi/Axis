@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 10.3h | 2 |
+| Week 5 | Tier 1 | 10.9h | 2 |
 
 ## Contents
 
@@ -105,7 +105,7 @@ I have established the overall design direction for Axis, identified its main co
 
 ### 2026-11-08: # AXIS — Day 2 Journal: Modelling & Completing the Design
 
-**6h**
+**6.6h**
 
 # AXIS — Day 2 Journal: Modelling & Completing the Design
 
