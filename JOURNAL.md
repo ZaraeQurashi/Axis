@@ -52,8 +52,6 @@ The phone cradle connects to the supporting arm through pivot joints. These join
 
 ![image](https://halflife.hackclub-assets.com/sessions/EgY3s8kanBhx0FNjeHxRsejCAPHT6ftU/db801b0f2874c7f9cd2cbc82253c9d93166d0bc13f6ba52baf4bae5ed527e6e2.png)
 
-^Something similar to this type of pivot system.
-
 **Side-Mounted Adjustment Knob**
 
 An important part  of AXIS is the cylindrical adjustment knob on the side of the mechanism. Its textured outer surface will give it a better grip and gives the design a more mechanical appearance. The knob is intended to make angle adjustments easier.
