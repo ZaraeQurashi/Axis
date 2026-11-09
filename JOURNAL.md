@@ -251,7 +251,7 @@ I'm happy with how the final design turned out. What started as a simple idea fo
 
 The biggest challenge was making sure that everything fit together properly. It was easy to create individual shapes, but getting their dimensions, spacing, and connection points right took much more attention.
 
-I also became more comfortable using Fusion 360's sketching, extrusion, fillet, and component organization tools. More importantly, I got a better understanding of how to approach a design that contains multiple connected parts.
+I also became more comfortable using Fusion 360's sketching, extrusion, fillet, and component organization tools.
 
 ![image](https://halflife.hackclub-assets.com/sessions/EgY3s8kanBhx0FNjeHxRsejCAPHT6ftU/7c7b2babf34b1df9d08ae2a20bc6bcf27270cab8f6b18379c6592234ffa0ed8c.png)
 
