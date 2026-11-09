@@ -112,11 +112,11 @@ I have established the overall design direction for Axis, identified its main co
 
 Date: November 8+9
 
-Today, I focused on turning my initial plans for AXIS into a complete 3D model. Yesterday was mostly spent researching existing phone stands, planning the design, and practising how to create screws and threaded components. Today, I wanted to put those skills to use by modelling every individual part of the stand.
+Today, I focused on turning my initial plans for Axis into a complete 3D model. Yesterday was mostly spent researching existing phone stands, planning the design, and practising how to create screws and threaded components. Today, I wanted to put those skills to use by modelling every individual part of the stand.
 
-I decided to build AXIS using separate components rather than creating the entire design as one solid object. This would make it easier to modify individual parts and organize the model. I also wanted to make sure the different components could fit together properly instead of just looking good individually.
+I decided to build Axis using separate components rather than creating the entire design as one solid object. This would make it easier to modify individual parts and organize the model. I also wanted to make sure the different components could fit together properly instead of just looking good individually.
 
-I worked through the design one section at a time, starting with the base and gradually moving towards the phone cradle, support structure, adjustment knob, and smaller connecting pieces. There were a few issues along the way, particularly with dimensions, alignment, and some of the geometry. I ended up revisiting several sketches and making adjustments before I was happy with the result.
+I worked through the design one section at a time, starting with the base and gradually moving towards the phone cradle, support structure, adjustment knob, and smaller connecting pieces. There were a few issues along the way mainly with dimensions, alignment, and some of the geometry.
 
 ## 1. Modelling the Base
 
@@ -217,8 +217,6 @@ I also applied some of the techniques I had practised yesterday when working wit
 ## 7. Bringing the Components Together
 
 Once all the individual parts were modelled, I started assembling everything in Fusion 360.
-
-This was probably the most satisfying part of the day because I could finally see the complete design taking shape.
 
 I positioned the phone cradle above the rear support structure, aligned the cylindrical pivot connections, and connected the supporting assembly to the three-point base. I then positioned the adjustment knob on the side and checked how the smaller connecting components fitted into the design.
 
