@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 10h | 2 |
+| Week 5 | Tier 1 | 10.3h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-11-08: # AXIS — Day 1 Journal: Design Planning & Mechanical Modelling
 
-**4h**
+**4.3h**
 
 # AXIS — Day 1 Journal: Design Planning & Mechanical Modelling
 
@@ -49,6 +49,10 @@ The upper section will consist of two support plates that hold the phone in posi
 
 The phone cradle connects to the supporting arm through pivot joints. These joints allow the upper section to rotate while keeping a connection to the base. I designed the mechanism around multiple points to provide support and controlled movement.
 
+![image](https://halflife.hackclub-assets.com/sessions/EgY3s8kanBhx0FNjeHxRsejCAPHT6ftU/db801b0f2874c7f9cd2cbc82253c9d93166d0bc13f6ba52baf4bae5ed527e6e2.png)
+
+^Something similar to this type of pivot system.
+
 **Side-Mounted Adjustment Knob**
 
 An important part  of AXIS is the cylindrical adjustment knob on the side of the mechanism. Its textured outer surface will give it a better grip and gives the design a more mechanical appearance. The knob is intended to make angle adjustments easier.
@@ -56,10 +60,6 @@ An important part  of AXIS is the cylindrical adjustment knob on the side of the
 **Supporting Linkage**
 
 Behind the phone cradle, I have a structural assembly that connects the upper section to the base. This helps distribute supports the cradle when positioned at different angles.
-
-**Three-Point Base**
-
-Rather than using a solid rectangular base, I designed a raised triangular-style frame with four contact feet in each corner. This reduces the amount of material used while providing multiple support points. The enlarged feet also help distribute the load and improve stability.
 
 For reference, I looked at how other adjustable phone designs worked.
 
